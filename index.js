@@ -11,7 +11,7 @@ client.on("ready", () => {
     client.user.setStatus('online')
 })
 
-client.login('NzI3MDY4NDE1MTU5Njk3NDE5.XwILAA.X9KDnO593wC2kWRaX7PI-ttBiN')
+client.login('NzI3MDY4NDE1MTU5Njk3NDE5.XwIVrQ.WpG81s6GtQRwlPTT-TyA8O-9S6s')
 
 // =====================  COMMANDE ====================== //
 
